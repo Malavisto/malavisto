@@ -1,19 +1,18 @@
 # Hi there, I'm Malavisto 👋
 
-Welcome to my GitHub profile! I'm a tech enthusiast with a passion for coding, video games, and building personal projects. Whether it's homelab setups, server automation, or Python scripting, I'm always looking for new ways to improve and streamline workflows.
 
 ## 🚀 About Me
 
 - 🔭 Currently working on my homelab setup with Docker, Traefik, and automation scripts.
-- 💻 Proficient in Python, Docker, Linux, and networking.
-- 🛠 Interested in hardware tinkering, server setups, and experimenting with NAS solutions.
+- 💻 Decent in Python, Docker, Linux, and networking.
+- 🛠 Interested in hardware tinkering and server setups
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, Bash, Javascript
 - **Platforms**: Ubuntu, Windows, Docker
 - **Tools**: Git, Prometheus, Grafana, Traefik, SyncThing, Authentik
-- **Other Skills**: Homelab setups, File management scripts, SMART test automation, Video transcoding
+- **Other**: Homelab setups, File management scripts, SMART test automation, Video transcoding
 
 ## 📝 Current Projects
 
